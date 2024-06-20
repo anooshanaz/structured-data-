@@ -1,0 +1,1 @@
+structured data in typescript.
